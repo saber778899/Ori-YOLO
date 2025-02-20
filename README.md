@@ -10,3 +10,5 @@
 --来自百度网盘超级会员v5的分享
 
 ![image](https://github.com/saber778899/Ori-YOLO/blob/main/test_img/output_1.jpg)
+
+![image](https://github.com/saber778899/Ori-YOLO/blob/main/test_img/%E5%9B%BE%E7%89%8713.png)
