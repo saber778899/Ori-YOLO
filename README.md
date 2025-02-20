@@ -1,5 +1,5 @@
 # Ori-YOLO
-基于旋转不变卷积的空间站宇航员身体部位检测
+## 基于旋转不变卷积的空间站宇航员身体部位检测
 
 完整数据集及标注下载地址：通过网盘分享的文件：New_DATA.zip
 链接: https://pan.baidu.com/s/16x-bVr7wryZqOTXqXlDTWQ 提取码: 88rp 
