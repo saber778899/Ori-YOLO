@@ -228,7 +228,7 @@ def get_full_new_annotations(imgs_root, anno_path, save_imgs, debug=False):
  
 if __name__ == '__main__':
 
-    dataset_root_path = "/home/liuhaoan/BPJDet_0102/BPJDet-BPJDetPlus/datasdc/dataset/coco"
+    dataset_root_path = "/home/liuhaoan/Ori-YOLO/datasdc/dataset/coco"
     
     imgs_root_train = os.path.join(dataset_root_path, "images/New_DATA_train_0102")
     imgs_root_val = os.path.join(dataset_root_path, "images/New_DATA_val_0102")
