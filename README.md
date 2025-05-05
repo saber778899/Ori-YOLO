@@ -15,7 +15,14 @@ This is the official implementation of "Ori-YOLO: Detection of Astronaut Body Pa
   </tr> 
 </table>
 
-![image](https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo3.jpg)
+<table> 
+  <tr> 
+    <td>
+      <img src="https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo3.jpg">
+    </td> 
+  </tr> 
+</table>
+
 
 ## Illustrations
 
