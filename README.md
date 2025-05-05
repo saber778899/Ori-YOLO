@@ -69,8 +69,8 @@ $ python utils/labels.py --data data/JointBP_HumanParts.yaml
 For the training stage, please run:
 
 ```python
-$ python train.py --workers 15 --device 0,1,2,3 --data data/JointBP_HumanParts.yaml
-    --hyp data/hyp-p6.yaml --val-scales 1 --val-flips -1 \
+$ python train.py --workers 15 --device 0,1,2,3 --data data/JointBP_HumanParts.yaml \
+    --hyp data/hyp-p6.yaml --val-scales 1 --val-flips -1 
 ```
 
 For the testing stage, please run:
@@ -78,3 +78,12 @@ For the testing stage, please run:
 ```python
 $ python demos/image.py
 ```
+
+
+# Acknowledgement
+
+Our code refers to the following repositories. We thank the authors for releasing the codes.
+
+[BPJDet](https://github.com/hnuzhy/BPJDet/tree/BPJDetPlus?tab=readme-ov-file)
+
+[Hier R-CNN](https://github.com/soeaver/Hier-R-CNN)
