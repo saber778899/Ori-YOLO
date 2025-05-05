@@ -44,12 +44,10 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
 
 ## Datasets
 
-完整数据集及标注下载地址：https://drive.google.com/file/d/1l3p_A-GF5qoh8_yaJIwd3OQ98JQeHGn1/view?usp=drive_link
+* [Download address for the complete dataset and annotations: ](https://drive.google.com/drive/folders/1wUf7o7ngUXhXjTdUNYcZ4VGuQaP8kzNb?usp=drive_link)
 
-划分好的训练集和验证集下载地址：通过网盘分享的文件：new_data_val_0102.json等4个文件
-链接: https://pan.baidu.com/s/11XOC6wWJ9NyiGcHomkwK0g 提取码: c7v2 
---来自百度网盘超级会员v5的分享
-
+* [Download link for the pre-divided training and validation sets:](https://drive.google.com/drive/folders/1BCIJo1lzVhbxC4TYu6hrPRxHcPhKLde4?usp=drive_link)
+  
 ## Training and Testing
 
 Process official annotations of AstroBodyParts for our task by running 
