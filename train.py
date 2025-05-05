@@ -462,9 +462,9 @@ def train(hyp,  # path/to/hyp.yaml or hyp dictionary
 def parse_opt(known=False):
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', type=str, default='', help='initial weights path')
-    parser.add_argument('--cfg', type=str, default='/home/liuhaoan/BPJDet_0102/BPJDet-BPJDetPlus/data/models/Ori_yolov5m6.yaml', help='model.yaml path')
-    parser.add_argument('--data', type=str, default='/home/liuhaoan/BPJDet_0102/BPJDet-BPJDetPlus/data/JointBP_HumanParts.yaml', help='dataset.yaml path')
-    parser.add_argument('--hyp', type=str, default='/home/liuhaoan/BPJDet_0102/BPJDet-BPJDetPlus/data/hyp-p6.yaml', help='hyperparameters path')
+    parser.add_argument('--cfg', type=str, default='/home/liuhaoan/Ori-YOLO/data/models/Ori_yolov5m6.yaml', help='model.yaml path')
+    parser.add_argument('--data', type=str, default='/home/liuhaoan/Ori-YOLO/data/JointBP_HumanParts.yaml', help='dataset.yaml path')
+    parser.add_argument('--hyp', type=str, default='/home/liuhaoan/Ori-YOLO/data/hyp-p6.yaml', help='hyperparameters path')
     parser.add_argument('--epochs', type=int, default=80)
     parser.add_argument('--batch-size', type=int, default=24, help='total batch size for all GPUs')
     parser.add_argument('--imgsz', '--img', '--img-size', type=int, default=1280, help='train, val image size (pixels)')
