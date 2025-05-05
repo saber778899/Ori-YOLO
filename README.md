@@ -10,10 +10,12 @@ This is the official implementation of "Ori-YOLO: Detection of Astronaut Body Pa
       <img src="https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo2.jpg">
     </td> 
     <td>
-      <img src="https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo3.jpg">
+      <img src="https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo1.jpg">
     </td> 
   </tr> 
 </table>
+
+![image](https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo3.jpg)
 
 ## Illustrations
 
