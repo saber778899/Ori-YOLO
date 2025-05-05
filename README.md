@@ -60,7 +60,7 @@ Process official annotations of AstroBodyParts for our task by running
 $ python tools/get_anno_HumanParts_v2.py
 ```
 
-preparing yolov5-style labels for body-parts
+Preparing yolov5-style labels for body-parts
 
 ```python
 $ python utils/labels.py --data data/JointBP_HumanParts.yaml
@@ -71,7 +71,6 @@ For the training stage, please run:
 ```python
 $ python train.py --workers 15 --device 0,1,2,3 --data data/JointBP_HumanParts.yaml
     --hyp data/hyp-p6.yaml --val-scales 1 --val-flips -1 \
-    --weights weights/Ori-YOLO_best.pt
 ```
 
 For the testing stage, please run:
