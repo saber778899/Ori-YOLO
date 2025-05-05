@@ -4,9 +4,9 @@ This is the official implementation of "Ori-YOLO: Detection of Astronaut Body Pa
 
 ## Demo
 
-![image](https://github.com/saber778899/Ori-YOLO/blob/main/demo/demo1.jpg)
+![image](https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo2.jpg)
 
-![image](https://github.com/saber778899/Ori-YOLO/blob/main/demo/demo2.jpg)
+![image](https://github.com/saber778899/Ori-YOLO/blob/main/demos/demo3.jpg)
 
 ## Illustrations
 
