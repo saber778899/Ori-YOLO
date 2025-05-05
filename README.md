@@ -44,9 +44,9 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
 
 ## Datasets
 
-* [Download address for the complete dataset and annotations: ](https://drive.google.com/drive/folders/1wUf7o7ngUXhXjTdUNYcZ4VGuQaP8kzNb?usp=drive_link)
+* Download address for the complete dataset and annotations: [AstroBodyParts Datasets](https://drive.google.com/drive/folders/1wUf7o7ngUXhXjTdUNYcZ4VGuQaP8kzNb?usp=drive_link)
 
-* [Download link for the pre-divided training and validation sets:](https://drive.google.com/drive/folders/1BCIJo1lzVhbxC4TYu6hrPRxHcPhKLde4?usp=drive_link)
+* Download link for the pre-divided training and validation sets: [AstroBodyParts Datasets Pre-divided](https://drive.google.com/drive/folders/1BCIJo1lzVhbxC4TYu6hrPRxHcPhKLde4?usp=drive_link)
   
 ## Training and Testing
 
