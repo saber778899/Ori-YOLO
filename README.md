@@ -13,10 +13,10 @@ This is the official implementation of "Ori-YOLO: Detection of Astronaut Body Pa
 ## Installation
 
 ```python
-$ git clone -b BPJDetPlus https://github.com/hnuzhy/BPJDet.git
-$ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+$ git clone https://github.com/saber778899/Ori-YOLO.git
+$ pip install -r requirements.txt
 
-# Codes are only evaluated on GTX3090 + CUDA11.2 + PyTorch1.10.0.
+# Codes are only evaluated on GTX3090
 $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+cu111 \
   -f https://download.pytorch.org/whl/cu111/torch_stable.html
 ```
