@@ -42,6 +42,8 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
   -f https://download.pytorch.org/whl/cu111/torch_stable.html
 ```
 
+## Datasets
+
 完整数据集及标注下载地址：通过网盘分享的文件：New_DATA.zip
 链接: https://pan.baidu.com/s/16x-bVr7wryZqOTXqXlDTWQ 提取码: 88rp 
 --来自百度网盘超级会员v5的分享
@@ -50,6 +52,10 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
 链接: https://pan.baidu.com/s/11XOC6wWJ9NyiGcHomkwK0g 提取码: c7v2 
 --来自百度网盘超级会员v5的分享
 
+## Training and Testing
 
+\item preparing yolov5-style labels for body-parts
 
-
+```python
+$ python utils/labels.py --data data/JointBP_HumanParts.yaml
+```
