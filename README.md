@@ -84,6 +84,8 @@ $ python demos/image.py
 
 Our code refers to the following repositories. We thank the authors for releasing the codes.
 
-[BPJDet](https://github.com/hnuzhy/BPJDet/tree/BPJDetPlus?tab=readme-ov-file)
+* [TPAMI 2024 (BPJDetPlus) - BPJDet: Extended Object Representation for Generic Body-Part Joint Detection](https://github.com/hnuzhy/BPJDet/tree/BPJDetPlus?tab=readme-ov-file)
 
-[Hier R-CNN](https://github.com/soeaver/Hier-R-CNN)
+* [TIP 2020 (Hier-RCNN & COCOHumanParts) - Hier R-CNN: Instance-level Human Parts Detection and A New Benchmark](https://github.com/soeaver/Hier-R-CNN)
+
+* [YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5)
