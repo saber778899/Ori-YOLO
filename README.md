@@ -8,7 +8,7 @@ This is the official implementation of "Ori-YOLO: Detection of Astronaut Body Pa
 
 ## Illustrations
 
-![image](https://github.com/saber778899/Ori-YOLO/blob/main/test_img/%E5%9B%BE%E7%89%8713.png)
+![image](https://github.com/saber778899/Ori-YOLO/blob/main/test_img/Ori-YOLO.png)
 
 完整数据集及标注下载地址：通过网盘分享的文件：New_DATA.zip
 链接: https://pan.baidu.com/s/16x-bVr7wryZqOTXqXlDTWQ 提取码: 88rp 
